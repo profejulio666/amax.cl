@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terror y Ciencia Ficción</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #222;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #333;
+            padding: 10px;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 10px;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr); /* Dos columnas */
+            gap: 20px; /* Espacio entre elementos */
+        }
+
+        .section {
+            background-color: #333; /* Fondo oscuro para las secciones */
+            padding: 20px;
+            border-radius: 5px; /* Bordes redondeados para las secciones */
+        }
+
+        footer {
+            background-color: #222;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Terror y Ciencia Ficción</h1>
+        <p>Bienvenido al mundo del terror y la ciencia ficción.</p>
+    </header>
+    
+    <nav>
+        <a href="#">Inicio</a>
+        <a href="#">Noticias</a>
+        <a href="#">Críticas</a>
+        <a href="#">Análisis</a>
+        <a href="#">Entrevistas</a>
+        <a href="#">Reseñas de Libros</a>
+        <a href="#">Reseñas de Videojuegos</a>
+        <a href="#">Galería</a>
+    </nav>
+    
+    <div class="container">
+        <div class="grid-container">
+            <div class="section">
+                <h2>Noticias</h2>
+                <p>Aquí encontrarás las últimas noticias del mundo del terror y la ciencia ficción.</p>
+            </div>
+            
+            <div class="section">
+                <h2>Críticas</h2>
+                <p>Lee nuestras críticas de películas, series, libros y videojuegos de terror y ciencia ficción.</p>
+            </div>
+            
+            <div class="section">
+                <h2>Análisis</h2>
+                <p>Exploramos en profundidad las obras maestras del género.</p>
+            </div>
+            
+            <div class="section">
+                <h2>Entrevistas</h2>
+                <p>Entrevistas exclusivas con los creadores y artistas detrás de tus historias favoritas.</p>
+            </div>
+            
+            <div class="section">
+                <h2>Reseñas de Libros</h2>
+                <p>Descubre los libros de terror y ciencia ficción más emocionantes.</p>
+            </div>
+            
+            <div class="section">
+                <h2>Reseñas de Videojuegos</h2>
+                <p>Explora el mundo de los videojuegos de terror y ciencia ficción.</p>
+            </div>
+            
+            <div class="section">
+                <h2>Galería</h2>
+                <p>Disfruta de una selección de imágenes de tus obras favoritas.</p>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>&copy; 2023 Terror y Ciencia Ficción</p>
+    </footer>
+</body>
+</html>
