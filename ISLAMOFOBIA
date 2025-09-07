@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Islamofascismo: La Batalla Final</title>
+    <style>
+        :root {
+            --color-principal: #FF0000;
+            --color-secundario: #333;
+            --color-fondo: #000;
+            --color-texto: #fff;
+        }
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            background-color: var(--color-fondo);
+            color: var(--color-texto);
+            line-height: 1.6;
+            scroll-behavior: smooth;
+        }
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            background-color: var(--color-secundario);
+        }
+        h1 {
+            color: var(--color-principal);
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        .banner-img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+        nav {
+            background-color: var(--color-principal);
+            padding: 15px;
+            text-align: center;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 0;
+            flex-wrap: wrap;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.1rem;
+            padding: 8px 16px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        nav a:hover {
+            background-color: rgba(255, 255, 255, 0.2);
+        }
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+        section {
+            padding: 60px 0;
+        }
+        h2 {
+            color: var(--color-principal);
+            font-size: 2rem;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        h3 {
+            color: var(--color-texto);
+            font-size: 1.5rem;
+            margin-top: 30px;
+        }
+        p {
+            font-size: 1.1rem;
+            text-align: justify;
+        }
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            margin-top: 40px;
+            background-color: var(--color-secundario);
+            color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Anarquismo: La Verdad Detrás de las Ideas</h1>
+        <p>Una guía para principiantes</p>
+        <img class="banner-img" src="1757206372 (1).jpg-540e21e6-2273-4896-a006-a18e163ee93b" alt="Banner Anarquismo">
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="menu_anarquista.html#anarquismo-vuelve">El anarquismo vuelve a vivir</a></li>
+            <li><a href="menu_anarquista.html#anarquismos-anarquias">Anarquismos y anarquías</a></li>
+            <li><a href="menu_anarquista.html#derribando-mitos">Derribando mitos</a></li>
+            <li><a href="menu_anarquista.html#diferencia-con-otros">Diferencia con otros</a></li>
+            <li><a href="menu_anarquista.html#distintas-corrientes">Distintas corrientes</a></li>
+            <li><a href="menu_anarquista.html#anarcosindicalismo">El anarcosindicalismo</a></li>
+            <li><a href="#islamofascismo">ISLAMOFASCISMO PELIGRO INMINENTE</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <section id="islamofascismo">
+            <h2>ISLAMOFASCISMO: LA BATALLA FINAL</h2>
+            <p>El **islamofascismo** no es solo un peligro inminente; es la antítesis de la libertad. Esta ideología es la fusión más perversa de dos conceptos que el anarquismo ha combatido siempre: el fundamentalismo religioso y el totalitarismo político. No se trata de una crítica a la fe, sino a una forma de poder que busca imponer un control absoluto sobre la vida, el pensamiento y las creencias de las personas. Es el Estado elevado a su máxima expresión de tiranía, justificado por una supuesta autoridad divina.</p>
+
+            <p>Para los anarquistas, que buscan la liberación total de cualquier forma de opresión, el islamofascismo representa el enemigo definitivo. Mientras que el anarquismo defiende la cooperación voluntaria y la autoorganización, esta ideología solo ofrece una vida de sometimiento y obediencia forzada. La nuestra es una lucha por la verdadera libertad: la capacidad de pensar, de crear y de vivir sin un poder que te imponga su voluntad. Y esta es, sin duda, la última batalla contra el fascismo.</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Anarquismo: La Verdad Detrás de las Ideas. Un proyecto de profejulio666.</p>
+    </footer>
+</body>
+</html>
